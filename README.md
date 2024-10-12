@@ -4,7 +4,7 @@ Proyecto subido el día 19/04/2022 para el curso de Desarrollo Web.
 
 ## Enlace de Proyecto desde GitHub Pages (main)
 
-- [Enlace de proyecto](https://robermejia.github.io/desafiosDesarrolloWeb/)
+- [Enlace de proyecto](https://robermejia.github.io/coderhouse_desarrollo_web_36900/)
 
 ## Construido con
 
@@ -18,9 +18,9 @@ Proyecto subido el día 19/04/2022 para el curso de Desarrollo Web.
 - Git/GitHub
 - Filezilla
 
-## Desafios
+## Desafios (Rama desafios)
 
-- [Enlace de todos los desafios](https://github.com/robermejia/desafiosDesarrolloWeb/tree/desafios)
+- [Enlace de todos los desafios](https://github.com/robermejia/coderhouse_desarrollo_web_36900/tree/desafios)
 
 ## Enlace de Proyecto desde 000WebHost
 
