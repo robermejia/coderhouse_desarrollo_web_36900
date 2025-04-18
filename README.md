@@ -22,10 +22,17 @@ Proyecto subido el día 19/04/2022 para el curso de Desarrollo Web.
 
 - [Enlace de todos los desafios](https://github.com/robermejia/coderhouse_desarrollo_web_36900/tree/desafios)
 
-## Enlace de Proyecto desde 000WebHost
+## Despliegue desde 000WebHost
 
 - [Enlace de proyecto](https://proyecto--coderhouse.000webhostapp.com/)
+
+## Despliegue
+
+- [Enlace de proyecto](https://robermejia.github.io/coderhouse_desarrollo_web_36900/)
 
 ## Autor
 
 - [Roberto Agustín Mejía Collazos](https://github.com/robermejia)
+
+## Preview
+- ![mann](https://i.ibb.co/8LQK1fvt/1.jpg)
