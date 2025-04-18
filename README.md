@@ -26,7 +26,7 @@ Proyecto subido el día 19/04/2022 para el curso de Desarrollo Web.
 
 - [Enlace de proyecto](https://proyecto--coderhouse.000webhostapp.com/)
 
-## Despliegue
+## Despliegue Github Pages
 
 - [Enlace de proyecto](https://robermejia.github.io/coderhouse_desarrollo_web_36900/)
 
